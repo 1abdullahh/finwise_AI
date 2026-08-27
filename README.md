@@ -1,5 +1,7 @@
 # FinWise AI
 
+# Streamlit deploy link:  https://finwiseai-1abdullahh.streamlit.app/
+
 **AI-Powered Personal Financial Analysis and Smart Budget Assistant**
 A LangChain + Streamlit FinTech prototype built for the *Building LLM Applications with LangChain* course module.
 
